@@ -1,7 +1,7 @@
 <? session_start();?>
 <html>
 <link rel="stylesheet" href="my_layout.css"  type="text/css" />
-<title>Phone Book Project</title>
+<title>Phone Book</title>
 <body class="my_body">
         <div id="my_divition">  
  <?php
